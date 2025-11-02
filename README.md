@@ -10,7 +10,7 @@ The **Financial Reporting and Analysis** project involves designing and developi
 This solution helps decision-makers gain real-time insights, compare actual vs. target performance, and enhance overall financial transparency and planning.
 
 
-## 🎯 ** Objectives**
+## 🎯  Objectives
 
 * To visualize key financial metrics (Revenue, Profit and Profit Margin,).
 * To provide **real-time insights** for better decision-making.
