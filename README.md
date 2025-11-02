@@ -4,7 +4,7 @@
 
 Financial reporting is essential for understanding a company’s financial health and making strategic decisions. Traditional static reports often lack interactivity and real-time updates. This project aims to transform financial data into visually rich and dynamic dashboards using **Microsoft Power BI**, allowing businesses to monitor performance efficiently, analyze key metrics, and identify financial trends over time.
 
-## 💡 ** Description**
+## 💡  Description
 
 The **Financial Reporting and Analysis** project involves designing and developing interactive dashboards that consolidate various financial statements such as income statements. Using Power BI, the project integrates data from multiple sources, applies DAX formulas for advanced calculations, and presents KPIs like revenue, expenses, profit margins in an interactive visual format.
 This solution helps decision-makers gain real-time insights, compare actual vs. target performance, and enhance overall financial transparency and planning.
